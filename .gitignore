@@ -1,0 +1,11 @@
+# capturas e arquivos temporários de trabalho
+*.png
+*.jpg
+_m.html
+shot.html
+variant_*.html
+
+# lixo de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
